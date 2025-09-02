@@ -1,0 +1,22 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.rds
+Rdata_tutorial/binomial/.DS_Store
+Rdata_tutorial/.DS_Store
+Rdata_tutorial/binomial/bivariate/.DS_Store
+Rdata_tutorial/gaussian/.DS_Store
+Rdata_tutorial/gaussian/.Rapp.history
+Rdata_tutorial/multinomial/.DS_Store
+Rdata_tutorial/ordinal/.DS_Store
+R/.DS_Store
+data/potential/.DS_Store
+data/potential/avonet/.DS_Store
+data/bird body mass/.DS_Store
+data/bird body mass/ELEData/.DS_Store
+data/bird body mass/ELEData/TraitData/.DS_Store
+data/bird body mass/ELEData/SpatialData/.DS_Store
+data/.DS_Store
+.DS_Store
+data/bird body mass/EricsonStage2_0001_1000.zip

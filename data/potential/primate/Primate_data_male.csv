@@ -1,0 +1,450 @@
+species_number,common_name,clade,TreeName_Order,TreeName_Family,TreeName_Genus,TreeName_FINAL,PhyloName,vs_female,vs_male,redpeachpink_facial_skin,genital_notes,red_genitals,red_pelage_head,red_pelage_body_limbs,red_pelage_tail,activity_cycle,social_group_size_orig,social_group_size,multilevel
+1,Azara's Night Monkey,Platyrrhine,Primates,Aotidae,Aotus,Aotus azarae,Aotus_azarae_AOTIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,0,1,1,cath,3.27,-0.363793443,0
+2,Brumback's Night Monkey,Platyrrhine,Primates,Aotidae,Aotus,Aotus brumbacki,Aotus_brumbacki_AOTIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,0,0,0,noct,3,-0.370430215,NA
+3,Grey-Legged Night Monkey,Platyrrhine,Primates,Aotidae,Aotus,Aotus griseimembra,Aotus_griseimembra_AOTIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,0,0,0,noct,3,-0.370430215,NA
+4,Hernandez-Camacho's Night Monkey,Platyrrhine,Primates,Aotidae,Aotus,Aotus jorgehernandezi,Aotus_jorgehernandezi_AOTIDAE_PRIMATES,Monochromatic,Monochromatic,NA,0,0,NA,NA,NA,noct,NA,NA,NA
+5,Colombian Night Monkey,Platyrrhine,Primates,Aotidae,Aotus,Aotus lemurinus,Aotus_lemurinus_AOTIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,0,0,1,noct,NA,NA,0
+6,Andean Night Monkey,Platyrrhine,Primates,Aotidae,Aotus,Aotus miconax,Aotus_miconax_AOTIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,0,1,1,noct,4,-0.345849577,0
+7,Nancy Ma's Night Monkey,Platyrrhine,Primates,Aotidae,Aotus,Aotus nancymaae,Aotus_nancymaae_AOTIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,0,1,1,noct,3.4,-0.36059796,0
+8,Black-Headed Night Monkey,Platyrrhine,Primates,Aotidae,Aotus,Aotus nigriceps,Aotus_nigriceps_AOTIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,0,1,1,noct,4.1,-0.343391513,0
+9,Northern Night Monkey,Platyrrhine,Primates,Aotidae,Aotus,Aotus trivirgatus,Aotus_trivirgatus_AOTIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,0,1,1,noct,2.9,-0.372888279,0
+10,Spix's Night Monkey,Platyrrhine,Primates,Aotidae,Aotus,Aotus vociferans,Aotus_vociferans_AOTIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,0,1,1,noct,3.3,-0.363056024,0
+11,Panamanian Night Monkey,Platyrrhine,Primates,Aotidae,Aotus,Aotus zonalis,Aotus_zonalis_AOTIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,0,0,1,noct,4.5,-0.333559258,NA
+12,Ursine Howler Monkey,Platyrrhine,Primates,Atelidae,Alouatta,Alouatta arctoidea,Alouatta_arctoidea_ATELIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,NA,8.25,-0.241381865,NA
+13,Red-Handed Howler Monkey,Platyrrhine,Primates,Atelidae,Alouatta,Alouatta belzebul,Alouatta_belzebul_ATELIDAE_PRIMATES,Trichromatic,Trichromatic,0,Rusty red scrotum - PELAGE,0,0,1,1,di,7,-0.272107663,0
+14,Black and Gold Howler Monkey,Platyrrhine,Primates,Atelidae,Alouatta,Alouatta caraya,Alouatta_caraya_ATELIDAE_PRIMATES,Trichromatic,Trichromatic,0,Rusty red scrotum - PELAGE,0,0,1,0,di,10.1,-0.195907685,0
+15,Spix's Howler Monkey,Platyrrhine,Primates,Atelidae,Alouatta,Alouatta discolor,Alouatta_discolor_ATELIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,1,0,NA,8,-0.247527025,NA
+16,Brown Howler Monkey,Platyrrhine,Primates,Atelidae,Alouatta,Alouatta guariba,Alouatta_guariba_ATELIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,1,1,1,di,6.5,-0.284397982,0
+17,Jurua Red Howler Monkey,Platyrrhine,Primates,Atelidae,Alouatta,Alouatta juara,Alouatta_juara_ATELIDAE_PRIMATES,Trichromatic,Trichromatic,NA,0,0,NA,NA,NA,NA,9.5,-0.210656068,NA
+18,Guianan Red Howler Monkey,Platyrrhine,Primates,Atelidae,Alouatta,Alouatta macconnelli,Alouatta_macconnelli_ATELIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,1,1,1,di,9.01,-0.222700581,0
+19,Black Howler Monkey,Platyrrhine,Primates,Atelidae,Alouatta,Alouatta nigerrima,Alouatta_nigerrima_ATELIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,5,-0.321268939,0
+20,Mantled Howler Monkey,Platyrrhine,Primates,Atelidae,Alouatta,Alouatta palliata,Alouatta_palliata_ATELIDAE_PRIMATES,Trichromatic,Trichromatic,0,white scrotum - skin,0,0,0,0,di,15.1,-0.073004495,0
+21,Yucatán Black Howler Monkey,Platyrrhine,Primates,Atelidae,Alouatta,Alouatta pigra,Alouatta_pigra_ATELIDAE_PRIMATES,Trichromatic,Trichromatic,0,white scrotum - skin,0,0,0,0,di,6.3,-0.28931411,0
+22,Purus Red Howler Monkey,Platyrrhine,Primates,Atelidae,Alouatta,Alouatta puruensis,Alouatta_puruensis_ATELIDAE_PRIMATES,Trichromatic,Trichromatic,NA,0,0,NA,NA,NA,NA,9.5,-0.210656068,NA
+23,Bolivian Red Howler Monkey,Platyrrhine,Primates,Atelidae,Alouatta,Alouatta sara,Alouatta_sara_ATELIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,1,1,1,di,6.2,-0.291772173,0
+24,Venezuelan Red Howler Monkey,Platyrrhine,Primates,Atelidae,Alouatta,Alouatta seniculus,Alouatta_seniculus_ATELIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,1,1,1,di,7.9,-0.249985089,0
+25,Maranhao Red-Handed Howler Monkey,Platyrrhine,Primates,Atelidae,Alouatta,Alouatta ululata,Alouatta_ululata_ATELIDAE_PRIMATES,Trichromatic,Trichromatic,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+26,White-Bellied Spider Monkey,Platyrrhine,Primates,Atelidae,Ateles,Ateles belzebuth,Ateles_belzebuth_ATELIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,33.4,0.376821181,0
+27,Black Spider Monkey,Platyrrhine,Primates,Atelidae,Ateles,Ateles chamek,Ateles_chamek_ATELIDAE_PRIMATES,Polymorphic,Dichromatic,0,silvery genital patch - pelage,0,0,0,0,di,38.5,0.502182435,0
+28,Brown-Headed Spider Monkey,Platyrrhine,Primates,Atelidae,Ateles,Ateles fusciceps,Ateles_fusciceps_ATELIDAE_PRIMATES,Polymorphic,Dichromatic,0,reddish genitals,1,0,0,0,di,3.81,-0.350519898,0
+29,Geoffroy's Spider Monkey,Platyrrhine,Primates,Atelidae,Ateles,Ateles geoffroyi,Ateles_geoffroyi_ATELIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,1,0,di,31.9,0.339950224,0
+30,Variegated Spider Monkey,Platyrrhine,Primates,Atelidae,Ateles,Ateles hybridus,Ateles_hybridus_ATELIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,2.61,-0.380016664,0
+31,White-Cheeked Spider Monkey,Platyrrhine,Primates,Atelidae,Ateles,Ateles marginatus,Ateles_marginatus_ATELIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,0,0,di,NA,NA,0
+32,Guianan Spider Monkey,Platyrrhine,Primates,Atelidae,Ateles,Ateles paniscus,Ateles_paniscus_ATELIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,0,0,di,18,-0.001720645,0
+33,Southern Muriqui,Platyrrhine,Primates,Atelidae,Brachyteles,Brachyteles arachnoides,Brachyteles_arachnoides_ATELIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,18,-0.001720645,0
+34,Northern Muriqui,Platyrrhine,Primates,Atelidae,Brachyteles,Brachyteles hypoxanthus,Brachyteles_hypoxanthus_ATELIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,0,0,di,36.5,0.453021159,0
+35,Grey Woolly Monkey,Platyrrhine,Primates,Atelidae,Lagothrix,Lagothrix cana,Lagothrix_cana_ATELIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,1,di,18.23,0.003932902,0
+36,Humboldt's Woolly Monkey,Platyrrhine,Primates,Atelidae,Lagothrix,Lagothrix lagotricha,Lagothrix_lagotricha_ATELIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,1,di,31.8,0.33749216,0
+37,Colombian Woolly Monkey,Platyrrhine,Primates,Atelidae,Lagothrix,Lagothrix lugens,Lagothrix_lugens_ATELIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,18.67,0.014748383,0
+38,Poeppig's Woolly Monkey,Platyrrhine,Primates,Atelidae,Lagothrix,Lagothrix poeppigii,Lagothrix_poeppigii_ATELIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,1,di,20,0.047440631,0
+39,Yellow-Tailed Woolly Monkey,Platyrrhine,Primates,Atelidae,Oreonax,Oreonax flavicauda,Oreonax_flavicauda_ATELIDAE_PRIMATES,NA,NA,0,"Long clitoris, yellow fur on scrotum",0,1,1,1,di,11,-0.173785111,0
+40,Black-Crowned Dwarf Marmoset,Platyrrhine,Primates,Callitrichidae,Callibella,Callibella humilis,Callibella_humilis_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,0,0,di,NA,NA,0
+41,Goeldi's Monkey,Platyrrhine,Primates,Callitrichidae,Callimico,Callimico goeldii,Callimico_goeldii_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,8,-0.247527025,0
+42,Buffy-Tufted-Ear Marmoset,Platyrrhine,Primates,Callitrichidae,Callithrix,Callithrix aurita,Callithrix_aurita_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,7.5,-0.259817344,0
+43,Buffy-Headed Marmoset,Platyrrhine,Primates,Callitrichidae,Callithrix,Callithrix flaviceps,Callithrix_flaviceps_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,6.7,-0.279481854,0
+44,Geoffroy's Tufted-Ear Marmoset,Platyrrhine,Primates,Callitrichidae,Callithrix,Callithrix geoffroyi,Callithrix_geoffroyi_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,1,0,di,5,-0.321268939,0
+45,Common Marmoset,Platyrrhine,Primates,Callitrichidae,Callithrix,Callithrix jacchus,Callithrix_jacchus_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,0,0,di,9.5,-0.210656068,0
+46,Wied's Marmoset,Platyrrhine,Primates,Callitrichidae,Callithrix,Callithrix kuhlii,Callithrix_kuhlii_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,0,0,di,9,-0.222946387,0
+47,Black-Pencilled Marmoset,Platyrrhine,Primates,Callitrichidae,Callithrix,Callithrix penicillata,Callithrix_penicillata_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,9.5,-0.210656068,0
+48,Pygmy Marmoset,Platyrrhine,Primates,Callitrichidae,Cebuella,Cebuella pygmaea,Cebuella_pygmaea_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,0,0,di,5.5,-0.30897862,0
+49,Cruz Lima's Saddleback Tamarin,Platyrrhine,Primates,Callitrichidae,Leontocebus,Leontocebus cruzlimai,Leontocebus_cruzlimai_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,External genitalia are mostly or entirely black,0,1,1,0,di,NA,NA,NA
+50,Saddleback Tamarin,Platyrrhine,Primates,Callitrichidae,Leontocebus,Leontocebus fuscicollis,Leontocebus_fuscicollis_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,genitalia black,0,1,0,0,di,6,-0.296688301,0
+51,Illiger's Saddleback Tamarin,Platyrrhine,Primates,Callitrichidae,Leontocebus,Leontocebus illigeri,Leontocebus_illigeri_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,External genitalia are mostly or entirely black,0,0,1,0,di,6,-0.296688301,NA
+52,Red-Mantled Saddleback Tamarin,Platyrrhine,Primates,Callitrichidae,Leontocebus,Leontocebus lagonotus,Leontocebus_lagonotus_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,External genitalia are black,0,0,1,0,NA,NA,NA,NA
+53,Andean Saddleback Tamarin,Platyrrhine,Primates,Callitrichidae,Leontocebus,Leontocebus leucogenys,Leontocebus_leucogenys_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,External genitalia are mostly or entirely black,0,0,1,0,NA,NA,NA,NA
+54,Black-Mantled Tamarin,Platyrrhine,Primates,Callitrichidae,Leontocebus,Leontocebus nigricollis,Leontocebus_nigricollis_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,black genitalia,0,0,0,0,di,5.6,-0.306520556,0
+55,Geoffroy's Saddleback Tamarin,Platyrrhine,Primates,Callitrichidae,Leontocebus,Leontocebus nigrifrons,Leontocebus_nigrifrons_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,External genitalia are black,0,0,0,0,di,6.8,-0.277023791,NA
+56,Golden-Mantled Tamarin,Platyrrhine,Primates,Callitrichidae,Leontocebus,Leontocebus tripartitus,Leontocebus_tripartitus_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,black genitalia,0,0,1,1,di,4.9,-0.323727003,0
+57,Weddell's Saddleback Tamarin,Platyrrhine,Primates,Callitrichidae,Leontocebus,Leontocebus weddelli,Leontocebus_weddelli_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,External genitalia are mostly or entirely black,0,0,1,0,di,5,-0.321268939,0
+58,Black-Faced Lion Tamarin,Platyrrhine,Primates,Callitrichidae,Leontopithecus,Leontopithecus caissara,Leontopithecus_caissara_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,1,0,di,5.12,-0.318319262,0
+59,Golden-Headed Lion Tamarin,Platyrrhine,Primates,Callitrichidae,Leontopithecus,Leontopithecus chrysomelas,Leontopithecus_chrysomelas_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,1,1,di,6.5,-0.284397982,0
+60,Golden-Rumped Lion Tamarin,Platyrrhine,Primates,Callitrichidae,Leontopithecus,Leontopithecus chrysopygus,Leontopithecus_chrysopygus_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,1,0,di,4.5,-0.333559258,0
+61,Golden Lion Tamarin,Platyrrhine,Primates,Callitrichidae,Leontopithecus,Leontopithecus rosalia,Leontopithecus_rosalia_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,1,1,di,6.5,-0.284397982,0
+62,Rio Acari Marmoset,Platyrrhine,Primates,Callitrichidae,Mico,Mico acariensis,Mico_acariensis_CALLITRICHIDAE_PRIMATES,NA,NA,1,0,0,0,0,0,di,NA,NA,0
+63,Silvery Marmoset,Platyrrhine,Primates,Callitrichidae,Mico,Mico argentatus,Mico_argentatus_CALLITRICHIDAE_PRIMATES,NA,NA,1,red genitalia,1,0,0,0,di,8,-0.247527025,0
+64,Golden-White Marmoset,Platyrrhine,Primates,Callitrichidae,Mico,Mico chrysoleucus,Mico_chrysoleucus_CALLITRICHIDAE_PRIMATES,NA,NA,1,0,0,0,1,1,di,NA,NA,0
+65,Snethlage's Marmoset,Platyrrhine,Primates,Callitrichidae,Mico,Mico emiliae,Mico_emiliae_CALLITRICHIDAE_PRIMATES,NA,NA,1,0,0,0,0,0,di,NA,NA,0
+66,Tassel-Ear Marmoset,Platyrrhine,Primates,Callitrichidae,Mico,Mico humeralifer,Mico_humeralifer_CALLITRICHIDAE_PRIMATES,NA,NA,1,0,0,0,0,0,di,6.5,-0.284397982,0
+67,Rio Aripuana Marmoset,Platyrrhine,Primates,Callitrichidae,Mico,Mico intermedius,Mico_intermedius_CALLITRICHIDAE_PRIMATES,NA,NA,1,0,0,0,0,0,di,11.5,-0.161494792,0
+68,White Marmoset,Platyrrhine,Primates,Callitrichidae,Mico,Mico leucippe,Mico_leucippe_CALLITRICHIDAE_PRIMATES,NA,NA,1,pinkish-scarlet genitalia,1,0,0,0,di,NA,NA,0
+69,Manicore Marmoset,Platyrrhine,Primates,Callitrichidae,Mico,Mico manicorensis,Mico_manicorensis_CALLITRICHIDAE_PRIMATES,NA,NA,1,0,0,0,0,0,di,NA,NA,0
+70,Marca's Marmoset,Platyrrhine,Primates,Callitrichidae,Mico,Mico marcai,Mico_marcai_CALLITRICHIDAE_PRIMATES,NA,NA,1,0,0,0,0,0,di,NA,NA,0
+71,Maues Marmoset,Platyrrhine,Primates,Callitrichidae,Mico,Mico mauesi,Mico_mauesi_CALLITRICHIDAE_PRIMATES,NA,NA,1,0,0,0,0,0,di,NA,NA,0
+72,Black-Tailed Marmoset,Platyrrhine,Primates,Callitrichidae,Mico,Mico melanurus,Mico_melanurus_CALLITRICHIDAE_PRIMATES,NA,NA,0,0,0,0,0,0,di,6.6,-0.281939918,0
+73,Black-Headed Marmoset,Platyrrhine,Primates,Callitrichidae,Mico,Mico nigriceps,Mico_nigriceps_CALLITRICHIDAE_PRIMATES,NA,NA,NA,white hairless scrotum,0,NA,NA,NA,di,5,-0.321268939,0
+74,Rondon's Marmoset,Platyrrhine,Primates,Callitrichidae,Mico,Mico rondoni,Mico_rondoni_CALLITRICHIDAE_PRIMATES,NA,NA,1,0,0,0,0,0,NA,NA,NA,NA
+75,Satere Marmoset,Platyrrhine,Primates,Callitrichidae,Mico,Mico saterei,Mico_saterei_CALLITRICHIDAE_PRIMATES,NA,NA,NA,bright orange extended genitalia in both sexes,0,NA,NA,NA,di,4.8,-0.326185067,0
+76,Brazilian Bare-Faced Tamarin,Platyrrhine,Primates,Callitrichidae,Saguinus,Saguinus bicolor,Saguinus_bicolor_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,1,di,4.9,-0.323727003,0
+77,Geoffroy's Tamarin,Platyrrhine,Primates,Callitrichidae,Saguinus,Saguinus geoffroyi,Saguinus_geoffroyi_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,1,di,6.2,-0.291772173,0
+78,Emperor Tamarin,Platyrrhine,Primates,Callitrichidae,Saguinus,Saguinus imperator,Saguinus_imperator_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,1,1,di,4.8,-0.326185067,0
+79,Mottled-Faced Tamarin,Platyrrhine,Primates,Callitrichidae,Saguinus,Saguinus inustus,Saguinus_inustus_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,genitals naked & white,0,0,0,0,di,6,-0.296688301,0
+80,Red-Chested Moustached Tamarin,Platyrrhine,Primates,Callitrichidae,Saguinus,Saguinus labiatus,Saguinus_labiatus_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,1,1,di,7.5,-0.259817344,0
+81,Silvery-Brown Tamarin,Platyrrhine,Primates,Callitrichidae,Saguinus,Saguinus leucopus,Saguinus_leucopus_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,1,0,di,5.2,-0.316352811,0
+82,Martins' Bare-Faced Tamarin,Platyrrhine,Primates,Callitrichidae,Saguinus,Saguinus martinsi,Saguinus_martinsi_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,NA,0,0,NA,NA,NA,di,5.5,-0.30897862,0
+83,Golden-Handed Tamarin,Platyrrhine,Primates,Callitrichidae,Saguinus,Saguinus midas,Saguinus_midas_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,1,0,di,5.8,-0.301604429,0
+84,Moustached Tamarin,Platyrrhine,Primates,Callitrichidae,Saguinus,Saguinus mystax,Saguinus_mystax_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,1,reddish vulva periodically,0,0,1,0,di,7,-0.272107663,0
+85,Black-Handed Tamarin,Platyrrhine,Primates,Callitrichidae,Saguinus,Saguinus niger,Saguinus_niger_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,5,-0.321268939,0
+86,Cotton-Top Tamarin,Platyrrhine,Primates,Callitrichidae,Saguinus,Saguinus oedipus,Saguinus_oedipus_CALLITRICHIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,1,1,di,6,-0.296688301,0
+87,Humboldt's White-Fronted Capuchin,Platyrrhine,Primates,Cebidae,Cebus,Cebus albifrons,Cebus_albifrons_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,0,0,di,19.8,0.042524504,0
+88,Colombian White-Faced Capuchin,Platyrrhine,Primates,Cebidae,Cebus,Cebus capucinus,Cebus_capucinus_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,0,0,di,16.4,-0.041049666,0
+89,Kaapori Capuchin,Platyrrhine,Primates,Cebidae,Cebus,Cebus kaapori,Cebus_kaapori_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,NA,0,0,NA,NA,NA,di,1.86,-0.398452142,0
+90,Wedge-Capped Capuchin,Platyrrhine,Primates,Cebidae,Cebus,Cebus olivaceus,Cebus_olivaceus_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,0,0,di,21,0.072021269,0
+91,Black-Capped Squirrel Monkey,Platyrrhine,Primates,Cebidae,Saimiri,Saimiri boliviensis,Saimiri_boliviensis_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,0,0,di,60,1.030666153,0
+92,Central American Squirrel Monkey,Platyrrhine,Primates,Cebidae,Saimiri,Saimiri oerstedii,Saimiri_oerstedii_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,0,0,di,50,0.784859772,0
+93,Common Squirrel Monkey,Platyrrhine,Primates,Cebidae,Saimiri,Saimiri sciureus,Saimiri_sciureus_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,1,0,di,32.5,0.354698607,0
+94,Golden-Backed Squirrel Monkey,Platyrrhine,Primates,Cebidae,Saimiri,Saimiri ustus,Saimiri_ustus_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,1,0,di,19.13,0.026055476,0
+95,Black-Headed Squirrel Monkey,Platyrrhine,Primates,Cebidae,Saimiri,Saimiri vanzolinii,Saimiri_vanzolinii_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,1,0,di,45,0.661956582,0
+96,Guianan Brown Capuchin,Platyrrhine,Primates,Cebidae,Sapajus,Sapajus apella,Sapajus_apella_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,18,-0.001720645,0
+97,Azara's Capuchin,Platyrrhine,Primates,Cebidae,Sapajus,Sapajus cay,Sapajus_cay_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,0,0,NA,20,0.047440631,0
+98,Blonde Capuchin,Platyrrhine,Primates,Cebidae,Sapajus,Sapajus flavius,Sapajus_flavius_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,NA,45,0.661956582,0
+99,Bearded Capuchin,Platyrrhine,Primates,Cebidae,Sapajus,Sapajus libidinosus,Sapajus_libidinosus_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,13,-0.124623835,0
+100,Large-Headed Capuchin,Platyrrhine,Primates,Cebidae,Sapajus,Sapajus macrocephalus,Sapajus_macrocephalus_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,15.5,-0.06317224,0
+101,Black-Horned Capuchin,Platyrrhine,Primates,Cebidae,Sapajus,Sapajus nigritus,Sapajus_nigritus_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,0,,0,0,0,0,di,9,-0.222946387,0
+102,Crested Capuchin,Platyrrhine,Primates,Cebidae,Sapajus,Sapajus robustus,Sapajus_robustus_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,NA,3.3,-0.363056024,0
+103,Buff-Headed Capuchin,Platyrrhine,Primates,Cebidae,Sapajus,Sapajus xanthosternos,Sapajus_xanthosternos_CEBIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,17,-0.026301283,0
+104,Allen's Swamp Monkey,Catarrhine,Primates,Cercopithecidae,Allenopithecus,Allenopithecus nigroviridis,Allenopithecus_nigroviridis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,"M perineum red margin and orange tuft, scrotum bluish white",1,1,1,1,di,35,0.416150202,0
+105,Agile Mangabey,Catarrhine,Primates,Cercopithecidae,Cercocebus,Cercocebus agilis,Cercocebus_agilis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,perineal swellings,0,0,0,0,di,10.5,-0.18607543,0
+106,Sooty Mangabey,Catarrhine,Primates,Cercopithecidae,Cercocebus,Cercocebus atys,Cercocebus_atys_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,NA,NA,0
+107,Golden-Bellied Mangabey,Catarrhine,Primates,Cercopithecidae,Cercocebus,Cercocebus chrysogaster,Cercocebus_chrysogaster_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,perineal swellings,0,1,1,0,di,57.5,0.969214557,0
+108,Tana River Mangabey,Catarrhine,Primates,Cercopithecidae,Cercocebus,Cercocebus galeritus,Cercocebus_galeritus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,28.5,0.256376055,0
+109,Sanje River Mangabey,Catarrhine,Primates,Cercopithecidae,Cercocebus,Cercocebus sanjei,Cercocebus_sanjei_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,39,0.514472754,0
+110,Red-Capped Mangabey,Catarrhine,Primates,Cercopithecidae,Cercocebus,Cercocebus torquatus,Cercocebus_torquatus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,1,0,0,di,21.8,0.09168578,0
+111,Red-Tailed Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus ascanius,Cercopithecus_ascanius_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,1,di,28.7,0.261292182,0
+112,Campbell's Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus campbelli,Cercopithecus_campbelli_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,blue scrotum,0,0,0,1,di,9.3,-0.215572196,0
+113,Moustached Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus cephus,Cercopithecus_cephus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,1,1,1,di,6,-0.296688301,0
+114,Diana Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus diana,Cercopithecus_diana_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,1,0,di,24.1,0.148221247,0
+115,Dryas Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus dryas,Cercopithecus_dryas_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,scrotum  light blue,0,0,0,0,di,16,-0.050881921,0
+116,Red-Bellied Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus erythrogaster,Cercopithecus_erythrogaster_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,1,0,di,6,-0.296688301,0
+117,Red-Eared Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus erythrotis,Cercopithecus_erythrotis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,"scrotum orange hairs, penis pink, vulva blue",1,1,1,1,di,17,-0.026301283,0
+118,Owl-Faced Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus hamlyni,Cercopithecus_hamlyni_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,blue scrotum,0,0,0,0,di,7.8,-0.252443153,0
+119,L'Hoest's Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus lhoesti,Cercopithecus_lhoesti_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,scrotum light blue,0,0,1,0,di,23.5,0.133472864,0
+120,Lesula,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus lomamiensis,Cercopithecus_lomamiensis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,"Pale blue scrotum, pale blue rump patch in males",0,1,1,1,di,3,-0.370430215,NA
+121,Blue Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus mitis,Cercopithecus_mitis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,23.9,0.14330512,0
+122,Mona Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus mona,Cercopithecus_mona_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,blue scrotum,0,0,1,0,di,9.8,-0.203281876,0
+123,De Brazza's Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus neglectus,Cercopithecus_neglectus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,blue scrotum,0,1,0,0,di,9.2,-0.218030259,0
+124,Putty-Nosed Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus nictitans,Cercopithecus_nictitans_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,12,-0.149204473,0
+125,Spot-Nosed Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus petaurista,Cercopithecus_petaurista_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,blue scrotum,0,1,1,1,di,10.7,-0.181159302,0
+126,Crowned Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus pogonias,Cercopithecus_pogonias_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,1,1,di,11.7,-0.156578664,0
+127,Preuss' Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus preussi,Cercopithecus_preussi_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,NA,scrotum light blue,0,NA,NA,NA,di,NA,NA,0
+128,Sclater's Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus sclateri,Cercopithecus_sclateri_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,1,1,di,11.9,-0.151662537,0
+129,Sun-Tailed Monkey,Catarrhine,Primates,Cercopithecidae,Cercopithecus,Cercopithecus solatus,Cercopithecus_solatus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,scrotum light blue,0,0,1,1,di,16.9,-0.028759346,0
+130,Grivet Monkey,Catarrhine,Primates,Cercopithecidae,Chlorocebus,Chlorocebus aethiops,Chlorocebus_aethiops_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,Scrotum light blue,0,0,0,0,di,12,-0.149204473,0
+131,Malbrouck Monkey,Catarrhine,Primates,Cercopithecidae,Chlorocebus,Chlorocebus cynosuros,Chlorocebus_cynosuros_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,Scrotum lapis blue,0,0,0,0,di,NA,NA,0
+132,Bale Monkey,Catarrhine,Primates,Cercopithecidae,Chlorocebus,Chlorocebus djamdjamensis,Chlorocebus_djamdjamensis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,Scrotum blue,0,0,0,0,di,55,0.907762962,0
+133,Vervet Monkey,Catarrhine,Primates,Cercopithecidae,Chlorocebus,Chlorocebus pygerythrus,Chlorocebus_pygerythrus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,"Scrotum turquoise, perineal area red - PELAGE but red penis",0,0,0,0,di,21,0.072021269,0
+134,Green Monkey,Catarrhine,Primates,Cercopithecidae,Chlorocebus,Chlorocebus sabaeus,Chlorocebus_sabaeus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,scrotum very pale blue,0,0,0,1,di,96,1.915569122,0
+135,Tantalus Monkey,Catarrhine,Primates,Cercopithecidae,Chlorocebus,Chlorocebus tantalus,Chlorocebus_tantalus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,Scrotum sky blue surrounded orange hairs,0,0,0,0,di,NA,NA,0
+136,Angolan Colobus,Catarrhine,Primates,Cercopithecidae,Colobus,Colobus angolensis,Colobus_angolensis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,81,1.546859551,0
+137,Guereza,Catarrhine,Primates,Cercopithecidae,Colobus,Colobus guereza,Colobus_guereza_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,9,-0.222946387,0
+138,King Colobus,Catarrhine,Primates,Cercopithecidae,Colobus,Colobus polykomos,Colobus_polykomos_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,13.6,-0.109875452,0
+139,Black Colobus,Catarrhine,Primates,Cercopithecidae,Colobus,Colobus satanas,Colobus_satanas_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,13.7,-0.107417388,0
+140,White-Thighed Colobus,Catarrhine,Primates,Cercopithecidae,Colobus,Colobus vellerosus,Colobus_vellerosus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,15.2,-0.070546431,0
+141,Patas Monkey,Catarrhine,Primates,Cercopithecidae,Erythrocebus,Erythrocebus patas,Erythrocebus_patas_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,"Penis red, scrotum blue",0,1,1,1,di,30,0.293247012,0
+142,Grey-Cheeked Mangabey,Catarrhine,Primates,Cercopithecidae,Lophocebus,Lophocebus albigena,Lophocebus_albigena_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,F pink sexual swellings,0,0,0,0,di,16.1,-0.048423857,0
+143,Black Mangabey,Catarrhine,Primates,Cercopithecidae,Lophocebus,Lophocebus aterrimus,Lophocebus_aterrimus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,F pink sexual swellings,0,0,0,0,di,15,-0.075462559,0
+144,Stump-Tailed Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca arctoides,Macaca_arctoides_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,1,0,0,0,di,15,-0.075462559,0
+145,Assam Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca assamensis,Macaca_assamensis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,24.3,0.153137375,0
+146,Formosan Rock Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca cyclopis,Macaca_cyclopis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,27.1,0.221963161,0
+147,Crab-Eating Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca fascicularis,Macaca_fascicularis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,23.5,0.133472864,0
+148,Japanese Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca fuscata,Macaca_fuscata_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,1,0,0,0,di,45.6,0.676704965,0
+149,Heck's Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca hecki,Macaca_hecki_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,20,0.047440631,0
+150,Northern Pig-Tailed Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca leonina,Macaca_leonina_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,orange red pubic region + reddish sexual swelling,0,0,0,0,di,26,0.19492446,0
+151,White-Cheeked Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca leucogenys,Macaca_leucogenys_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,"Li, Zhao & Fan 2015 say glans is pink, scrotum same colour as surroundings",0,0,0,0,di,NA,NA,NA
+152,Moor Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca maura,Macaca_maura_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,M scrotum and anus red,1,0,0,0,di,27.5,0.231795417,0
+153,Rhesus Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca mulatta,Macaca_mulatta_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,1,0,di,39.2,0.519388882,0
+154,Arunachal Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca munzala,Macaca_munzala_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,1,0,di,21,0.072021269,NA
+155,Southern Pig-Tailed Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca nemestrina,Macaca_nemestrina_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,48,0.735698496,0
+156,Sulawesi Black Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca nigra,Macaca_nigra_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,M scrotum and anus red,1,0,0,0,di,36.7,0.457937286,0
+157,Gorontalo Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca nigrescens,Macaca_nigrescens_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,14,-0.100043197,0
+158,Booted Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca ochreata,Macaca_ochreata_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,32,0.342408288,0
+159,Pagai Island Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca pagensis,Macaca_pagensis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,1,0,1,0,di,15,-0.075462559,0
+160,Bonnet Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca radiata,Macaca_radiata_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,21.9,0.094143844,0
+161,Siberut Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca siberu,Macaca_siberu_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,NA,NA,0
+162,Lion-Tailed Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca silenus,Macaca_silenus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,19,0.022859993,0
+163,Toque Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca sinica,Macaca_sinica_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,22.7,0.113808354,0
+164,Barbary Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca sylvanus,Macaca_sylvanus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,1,0,0,di,33.1,0.36944699,0
+165,Tibetan Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca thibetana,Macaca_thibetana_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,white scrotum - skin,0,0,0,0,di,31,0.31782765,0
+166,Tonkean Macaque,Catarrhine,Primates,Cercopithecidae,Macaca,Macaca tonkeana,Macaca_tonkeana_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,10,-0.198365749,0
+167,Drill,Catarrhine,Primates,Cercopithecidae,Mandrillus,Mandrillus leucophaeus,Mandrillus_leucophaeus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,"M pink, lavendar, blue genitals",1,0,0,0,di,58,0.981504876,0
+168,Mandrill,Catarrhine,Primates,Cercopithecidae,Mandrillus,Mandrillus sphinx,Mandrillus_sphinx_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,"M blue, red, violet genitals",1,0,0,0,di,481.8,11.39877927,0
+169,Northern Talapoin Monkey,Catarrhine,Primates,Cercopithecidae,Miopithecus,Miopithecus ogouensis,Miopithecus_ogouensis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,"blue scrotum, F pink perineum swellings",0,0,0,0,di,60,1.030666153,0
+170,Southern Talapoin Monkey,Catarrhine,Primates,Cercopithecidae,Miopithecus,Miopithecus talapoin,Miopithecus_talapoin_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,64,1.128988705,0
+171,Proboscis Monkey,Catarrhine,Primates,Cercopithecidae,Nasalis,Nasalis larvatus,Nasalis_larvatus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,1,1,1,0,di,30,0.293247012,1
+172,Olive Baboon,Catarrhine,Primates,Cercopithecidae,Papio,Papio anubis,Papio_anubis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,F pink sexual swellings,0,0,0,0,di,49.3,0.767653326,0
+173,Yellow Baboon,Catarrhine,Primates,Cercopithecidae,Papio,Papio cynocephalus,Papio_cynocephalus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,F pink sexual swellings,0,0,0,0,di,55.3,0.915137154,0
+174,Hamadryas Baboon,Catarrhine,Primates,Cercopithecidae,Papio,Papio hamadryas,Papio_hamadryas_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,85.6,1.659930486,1
+175,Guinea Baboon,Catarrhine,Primates,Cercopithecidae,Papio,Papio papio,Papio_papio_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,F pink sexual swellings,0,1,1,1,di,62,1.079827429,1
+176,Chacma Baboon,Catarrhine,Primates,Cercopithecidae,Papio,Papio ursinus,Papio_ursinus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,48.7,0.752904943,0
+177,Bornean Banded Langur,Catarrhine,Primates,Cercopithecidae,Presbytis,Presbytis chrysomelas,Presbytis_chrysomelas_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,5,-0.321268939,0
+178,Javan Langur,Catarrhine,Primates,Cercopithecidae,Presbytis,Presbytis comata,Presbytis_comata_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,6.8,-0.277023791,0
+179,Banded Langur,Catarrhine,Primates,Cercopithecidae,Presbytis,Presbytis femoralis,Presbytis_femoralis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,14.5,-0.087752878,0
+180,White-Fronted Langur,Catarrhine,Primates,Cercopithecidae,Presbytis,Presbytis frontata,Presbytis_frontata_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,3.5,-0.358139896,0
+181,Hose's Langur,Catarrhine,Primates,Cercopithecidae,Presbytis,Presbytis hosei,Presbytis_hosei_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,7.5,-0.259817344,0
+182,Black-Crested Sumatran Langur,Catarrhine,Primates,Cercopithecidae,Presbytis,Presbytis melalophos,Presbytis_melalophos_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,1,1,1,di,14.5,-0.087752878,0
+183,Natuna Islands Langur,Catarrhine,Primates,Cercopithecidae,Presbytis,Presbytis natunae,Presbytis_natunae_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,3.5,-0.358139896,0
+184,Mentawai Langur,Catarrhine,Primates,Cercopithecidae,Presbytis,Presbytis potenziani,Presbytis_potenziani_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,3.8,-0.350765705,0
+185,Maroon Langur,Catarrhine,Primates,Cercopithecidae,Presbytis,Presbytis rubicunda,Presbytis_rubicunda_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,1,1,1,di,8,-0.247527025,0
+186,White-Thighed Langur,Catarrhine,Primates,Cercopithecidae,Presbytis,Presbytis siamensis,Presbytis_siamensis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,NA,NA,0
+187,Thomas' Langur,Catarrhine,Primates,Cercopithecidae,Presbytis,Presbytis thomasi,Presbytis_thomasi_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,8.9,-0.225404451,0
+188,Western Red Colobus,Catarrhine,Primates,Cercopithecidae,Procolobus,Procolobus badius,Procolobus_badius_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,F periodic sexual swellings,0,1,1,1,di,34.1,0.394027628,0
+189,Udzungwa Red Colobus,Catarrhine,Primates,Cercopithecidae,Procolobus,Procolobus gordonorum,Procolobus_gordonorum_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,F periodic sexual swellings,0,1,0,0,NA,43,0.612795306,0
+190,Zanzibar Red Colobus,Catarrhine,Primates,Cercopithecidae,Procolobus,Procolobus kirkii,Procolobus_kirkii_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,F periodic sexual swellings,0,0,1,1,di,30,0.293247012,0
+191,Bioko Red Colobus,Catarrhine,Primates,Cercopithecidae,Procolobus,Procolobus pennantii,Procolobus_pennantii_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,17.5,-0.014010964,0
+192,Preuss' Red Colobus,Catarrhine,Primates,Cercopithecidae,Procolobus,Procolobus preussi,Procolobus_preussi_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,"F periodic very large pink swellings, prominent clitoris",0,1,1,1,di,50,0.784859772,0
+193,Tana River Red Colobus,Catarrhine,Primates,Cercopithecidae,Procolobus,Procolobus rufomitratus,Procolobus_rufomitratus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,1,0,0,di,11.2,-0.168868983,0
+194,Olive Colobus,Catarrhine,Primates,Cercopithecidae,Procolobus,Procolobus verus,Procolobus_verus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,F periodic sexual swellings,0,0,0,0,di,7.8,-0.252443153,0
+195,Grey-Shanked Douc Langur,Catarrhine,Primates,Cercopithecidae,Pygathrix,Pygathrix cinerea,Pygathrix_cinerea_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,88,1.718924017,0
+196,Red-Shanked Douc Langur,Catarrhine,Primates,Cercopithecidae,Pygathrix,Pygathrix nemaeus,Pygathrix_nemaeus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,1,0,di,15.8,-0.055798048,0
+197,Black-Shanked Douc Langur,Catarrhine,Primates,Cercopithecidae,Pygathrix,Pygathrix nigripes,Pygathrix_nigripes_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,Red penis blue scrotum,1,0,0,0,di,33.7,0.384195372,1
+198,Tonkin Snub-Nosed Monkey,Catarrhine,Primates,Cercopithecidae,Rhinopithecus,Rhinopithecus avunculus,Rhinopithecus_avunculus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,Penis black scrotum white,0,0,0,0,di,80,1.522278913,1
+199,Black Snub-Nosed Monkey,Catarrhine,Primates,Cercopithecidae,Rhinopithecus,Rhinopithecus bieti,Rhinopithecus_bieti_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,210,4.717761857,1
+200,Grey Snub-Nosed Monkey,Catarrhine,Primates,Cercopithecidae,Rhinopithecus,Rhinopithecus brelichi,Rhinopithecus_brelichi_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,white scrotum - skin,0,1,0,0,di,400,9.388083082,1
+201,Golden Snub-Nosed Monkey,Catarrhine,Primates,Cercopithecidae,Rhinopithecus,Rhinopithecus roxellana,Rhinopithecus_roxellana_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,Penis black scrotum bluish-white,0,1,1,0,di,215,4.840665047,1
+202,Burmese Snub-Nosed Monkey,Catarrhine,Primates,Cercopithecidae,Rhinopithecus,Rhinopithecus strykeri,Rhinopithecus_strykeri_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,,0,0,0,0,di,NA,NA,NA
+203,Kipunji,Catarrhine,Primates,Cercopithecidae,Rungwecebus,Rungwecebus kipunji,Rungwecebus_kipunji_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,Pink ischial callosities,0,0,0,0,di,27,0.219505098,NA
+204,Kashmir Grey Langur,Catarrhine,Primates,Cercopithecidae,Semnopithecus,Semnopithecus ajax,Semnopithecus_ajax_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,73,1.350214447,0
+205,Southern Plains Grey Langur,Catarrhine,Primates,Cercopithecidae,Semnopithecus,Semnopithecus dussumieri,Semnopithecus_dussumieri_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,NA,NA,0
+206,Northern Plains Grey Langur,Catarrhine,Primates,Cercopithecidae,Semnopithecus,Semnopithecus entellus,Semnopithecus_entellus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,20.6,0.062189014,0
+207,Tarai Grey Langur,Catarrhine,Primates,Cercopithecidae,Semnopithecus,Semnopithecus hector,Semnopithecus_hector_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,18.3,0.005653547,0
+208,Black-Footed Grey Langur,Catarrhine,Primates,Cercopithecidae,Semnopithecus,Semnopithecus hypoleucos,Semnopithecus_hypoleucos_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,28.7,0.261292182,0
+209,Tufted Grey Langur,Catarrhine,Primates,Cercopithecidae,Semnopithecus,Semnopithecus priam,Semnopithecus_priam_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,31.1,0.320285714,0
+210,Nepal Grey Langur,Catarrhine,Primates,Cercopithecidae,Semnopithecus,Semnopithecus schistaceus,Semnopithecus_schistaceus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,35.2,0.421066329,0
+211,Pig-Tailed Langur,Catarrhine,Primates,Cercopithecidae,Simias,Simias concolor,Simias_concolor_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,Sexual swellings,0,0,0,0,di,5.75,-0.302833461,0
+212,Gelada,Catarrhine,Primates,Cercopithecidae,Theropithecus,Theropithecus gelada,Theropithecus_gelada_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,1,0,0,0,di,156.2,3.395323531,1
+213,Javan Lutung,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus auratus,Trachypithecus_auratus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,F yellowy-white pubic patch,0,1,1,1,di,14,-0.100043197,0
+214,Tenasserim Lutung,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus barbei,Trachypithecus_barbei_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,NA,NA,0
+215,Silvery Lutung,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus cristatus,Trachypithecus_cristatus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,16,-0.050881921,0
+216,Delacour's Langur,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus delacouri,Trachypithecus_delacouri_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,white pubic patch - pelage,0,0,0,0,di,9.6,-0.208198004,0
+217,François' Langur,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus francoisi,Trachypithecus_francoisi_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,8.7,-0.230320578,0
+218,Gee's Golden Langur,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus geei,Trachypithecus_geei_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,10.7,-0.181159302,0
+219,Indochinese Lutung,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus germaini,Trachypithecus_germaini_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,F white pubic patch,0,0,0,0,di,17,-0.026301283,0
+220,Hatinh Langur,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus hatinhensis,Trachypithecus_hatinhensis_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,F white pubic patch - skin and pelage,0,0,0,0,di,5.1,-0.318810875,0
+221,Nilgiri Langur,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus johnii,Trachypithecus_johnii_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,pink clitoris,0,0,0,0,di,10,-0.198365749,0
+222,Laotian Langur,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus laotum,Trachypithecus_laotum_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,possible female pubic patch,0,0,0,0,di,7.5,-0.259817344,0
+223,Dusky Langur,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus obscurus,Trachypithecus_obscurus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,17,-0.026301283,0
+224,Phayre's Langur,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus phayrei,Trachypithecus_phayrei_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,1,0,0,0,0,0,di,12.2,-0.144288345,0
+225,Capped Langur,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus pileatus,Trachypithecus_pileatus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,1,1,0,di,8.1,-0.245068961,0
+226,Golden-Headed Langur,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus poliocephalus,Trachypithecus_poliocephalus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,F yellowy-white pubic patch - skin & pelage,0,1,0,0,di,8,-0.247527025,0
+227,Shortridge's Langur,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus shortridgei,Trachypithecus_shortridgei_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,NA,NA,0
+228,Purple-Faced Langur,Catarrhine,Primates,Cercopithecidae,Trachypithecus,Trachypithecus vetulus,Trachypithecus_vetulus_CERCOPITHECIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,12,-0.149204473,0
+229,Hairy-Eared Dwarf Lemur,Strepsirrhine,Primates,Cheirogaleidae,Allocebus,Allocebus trichotis,Allocebus_trichotis_CHEIROGALEIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,1,0,0,noct,1.59,-0.405088915,0
+230,Furry-Eared Dwarf Lemur,Strepsirrhine,Primates,Cheirogaleidae,Cheirogaleus,Cheirogaleus crossleyi,Cheirogaleus_crossleyi_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,0,0,0,noct,2,-0.395010853,0
+231,Lavasoa Dwarf Lemur,Strepsirrhine,Primates,Cheirogaleidae,Cheirogaleus,Cheirogaleus lavasoensis,Cheirogaleus_lavasoensis_CHEIROGALEIDAE_PRIMATES,NA,NA,0,NA,0,1,0,0,NA,NA,NA,NA
+232,Greater Dwarf Lemur,Strepsirrhine,Primates,Cheirogaleidae,Cheirogaleus,Cheirogaleus major,Cheirogaleus_major_CHEIROGALEIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,1,1,noct,2,-0.395010853,0
+233,Fat-Tailed Dwarf Lemur,Strepsirrhine,Primates,Cheirogaleidae,Cheirogaleus,Cheirogaleus medius,Cheirogaleus_medius_CHEIROGALEIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,0,0,noct,2,-0.395010853,0
+234,Lesser Iron-Grey Dwarf Lemur,Strepsirrhine,Primates,Cheirogaleidae,Cheirogaleus,Cheirogaleus minusculus,Cheirogaleus_minusculus_CHEIROGALEIDAE_PRIMATES,NA,NA,NA,0,0,NA,NA,NA,noct,NA,NA,0
+235,Sibree's Dwarf Lemur,Strepsirrhine,Primates,Cheirogaleidae,Cheirogaleus,Cheirogaleus sibreei,Cheirogaleus_sibreei_CHEIROGALEIDAE_PRIMATES,NA,NA,NA,0,0,NA,NA,NA,noct,2,-0.395010853,0
+236,Arnhold's Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus arnholdi,Microcebus_arnholdi_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,1,0,0,noct,NA,NA,NA
+237,Madame Berthe's Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus berthae,Microcebus_berthae_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,1,1,1,noct,1,-0.419591491,0
+238,Bongolava Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus bongolavensis,Microcebus_bongolavensis_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,0,0,0,noct,NA,NA,NA
+239,Danfoss' Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus danfossi,Microcebus_danfossi_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,1,0,0,noct,NA,NA,NA
+240,Gerp's Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus gerpi,Microcebus_gerpi_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,1,1,0,noct,NA,NA,NA
+241,Grey-Brown Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus griseorufus,Microcebus_griseorufus_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,1,0,0,noct,1,-0.419591491,0
+242,Jolly's Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus jollyae,Microcebus_jollyae_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,0,0,0,noct,NA,NA,NA
+243,Goodman's Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus lehilahytsara,Microcebus_lehilahytsara_CHEIROGALEIDAE_PRIMATES,NA,NA,0,Scrotum furred,0,1,0,0,noct,1,-0.419591491,NA
+244,MacArthur's Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus macarthurii,Microcebus_macarthurii_CHEIROGALEIDAE_PRIMATES,NA,NA,0,White furred genital region,0,1,1,1,noct,NA,NA,NA
+245,Claire's Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus mamiratra,Microcebus_mamiratra_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,1,0,0,noct,NA,NA,NA
+246,Margot Marsh's Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus margotmarshae,Microcebus_margotmarshae_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,1,0,0,noct,NA,NA,NA
+247,Marohita Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus marohita,Microcebus_marohita_CHEIROGALEIDAE_PRIMATES,NA,NA,0,NA,0,1,0,0,NA,NA,NA,NA
+248,Mittermeier's Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus mittermeieri,Microcebus_mittermeieri_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,1,0,0,noct,NA,NA,NA
+249,Grey Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus murinus,Microcebus_murinus_CHEIROGALEIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,0,0,noct,1,-0.419591491,0
+250,Peters' Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus myoxinus,Microcebus_myoxinus_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,1,0,1,noct,1,-0.419591491,0
+251,Golden-Brown Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus ravelobensis,Microcebus_ravelobensis_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,1,0,0,noct,1,-0.419591491,0
+252,Rufous Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus rufus,Microcebus_rufus_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,1,1,1,noct,1,-0.419591491,0
+253,Sambirano Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus sambiranensis,Microcebus_sambiranensis_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,1,0,1,noct,NA,NA,0
+254,Simmons' Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus simmonsi,Microcebus_simmonsi_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,1,0,0,noct,NA,NA,NA
+255,Anosy Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus tanosi,Microcebus_tanosi_CHEIROGALEIDAE_PRIMATES,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA
+256,Tavaratra Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Microcebus,Microcebus tavaratra,Microcebus_tavaratra_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,1,0,0,noct,1,-0.419591491,0
+257,Coquerel's Giant Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Mirza,Mirza coquereli,Mirza_coquereli_CHEIROGALEIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,0,1,noct,1,-0.419591491,0
+258,Northern Giant Mouse Lemur,Strepsirrhine,Primates,Cheirogaleidae,Mirza,Mirza zaza,Mirza_zaza_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,0,0,0,noct,1,-0.419591491,NA
+259,Montagne D'Ambre Fork-Marked Lemur,Strepsirrhine,Primates,Cheirogaleidae,Phaner,Phaner electromontis,Phaner_electromontis_CHEIROGALEIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,0,0,0,noct,NA,NA,0
+260,Masoala Fork-Marked Lemur,Strepsirrhine,Primates,Cheirogaleidae,Phaner,Phaner furcifer,Phaner_furcifer_CHEIROGALEIDAE_PRIMATES,NA,NA,0,0,0,0,0,0,noct,2,-0.395010853,0
+261,Pale Fork-Marked Lemur,Strepsirrhine,Primates,Cheirogaleidae,Phaner,Phaner pallescens,Phaner_pallescens_CHEIROGALEIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,0,1,0,noct,2.14,-0.391569564,0
+262,Sambirano Fork-Marked Lemur,Strepsirrhine,Primates,Cheirogaleidae,Phaner,Phaner parienti,Phaner_parienti_CHEIROGALEIDAE_PRIMATES,Monochromatic,Monochromatic,NA,0,0,NA,NA,NA,noct,NA,NA,0
+263,Aye-Aye,Strepsirrhine,Primates,Daubentoniidae,Daubentonia,Daubentonia madagascariensis,Daubentonia_madagascariensis_DAUBENTONIIDAE_PRIMATES,Dichromatic,Dichromatic,0,vulva changes colour in oestrus,0,0,0,0,noct,1.3,-0.4122173,0
+264,Southern Needle-Clawed Galago,Strepsirrhine,Primates,Galagidae,Euoticus,Euoticus elegantulus,Euoticus_elegantulus_GALAGIDAE_PRIMATES,NA,NA,0,0,0,0,1,0,noct,1,-0.419591491,0
+265,Northern Needle-Clawed Galago,Strepsirrhine,Primates,Galagidae,Euoticus,Euoticus pallidus,Euoticus_pallidus_GALAGIDAE_PRIMATES,NA,NA,0,0,0,0,0,0,noct,1,-0.419591491,0
+266,Somali Lesser Galago,Strepsirrhine,Primates,Galagidae,Galago,Galago gallarum,Galago_gallarum_GALAGIDAE_PRIMATES,NA,NA,0,0,0,0,1,0,noct,1,-0.419591491,0
+267,Spectacled Lesser Galago,Strepsirrhine,Primates,Galagidae,Galago,Galago matschiei,Galago_matschiei_GALAGIDAE_PRIMATES,NA,NA,0,0,0,0,0,0,noct,1,-0.419591491,0
+268,Southern Lesser Galago,Strepsirrhine,Primates,Galagidae,Galago,Galago moholi,Galago_moholi_GALAGIDAE_PRIMATES,NA,NA,0,0,0,0,0,0,noct,4.5,-0.333559258,0
+269,Northern Lesser Galago,Strepsirrhine,Primates,Galagidae,Galago,Galago senegalensis,Galago_senegalensis_GALAGIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,0,0,0,noct,5.5,-0.30897862,0
+270,Kenya Coast Galago,Strepsirrhine,Primates,Galagidae,Galagoides,Galagoides cocos,Galagoides_cocos_GALAGIDAE_PRIMATES,NA,NA,0,0,0,0,0,0,noct,NA,NA,NA
+271,Demidoff's Dwarf Galago,Strepsirrhine,Primates,Galagidae,Galagoides,Galagoides demidovii,Galagoides_demidovii_GALAGIDAE_PRIMATES,NA,NA,0,0,0,0,0,0,noct,NA,NA,0
+272,Grant's Dwarf Galago,Strepsirrhine,Primates,Galagidae,Galagoides,Galagoides granti,Galagoides_granti_GALAGIDAE_PRIMATES,NA,NA,NA,0,0,NA,NA,NA,noct,NA,NA,0
+273,Malawi Galago,Strepsirrhine,Primates,Galagidae,Galagoides,Galagoides nyasae,Galagoides_nyasae_GALAGIDAE_PRIMATES,NA,NA,NA,0,0,NA,NA,NA,noct,NA,NA,NA
+274,Mountain Dwarf Galago,Strepsirrhine,Primates,Galagidae,Galagoides,Galagoides orinus,Galagoides_orinus_GALAGIDAE_PRIMATES,NA,NA,0,0,0,1,1,0,noct,NA,NA,0
+275,Rondo Dwarf Galago,Strepsirrhine,Primates,Galagidae,Galagoides,Galagoides rondoensis,Galagoides_rondoensis_GALAGIDAE_PRIMATES,NA,NA,0,0,0,0,0,1,noct,NA,NA,0
+276,Thomas' Dwarf Galago,Strepsirrhine,Primates,Galagidae,Galagoides,Galagoides thomasi,Galagoides_thomasi_GALAGIDAE_PRIMATES,NA,NA,0,0,0,0,0,1,noct,NA,NA,0
+277,Tanzania Coast Dwarf Galago,Strepsirrhine,Primates,Galagidae,Galagoides,Galagoides zanzibaricus,Galagoides_zanzibaricus_GALAGIDAE_PRIMATES,NA,NA,0,0,0,0,1,1,noct,NA,NA,0
+278,Thick-Tailed Greater Galago,Strepsirrhine,Primates,Galagidae,Otolemur,Otolemur crassicaudatus,Otolemur_crassicaudatus_GALAGIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,0,0,0,noct,4,-0.345849577,0
+279,Garnett's Greater Galago,Strepsirrhine,Primates,Galagidae,Otolemur,Otolemur garnettii,Otolemur_garnettii_GALAGIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,1,1,0,noct,1,-0.419591491,0
+280,Bioko Squirrel Galago,Strepsirrhine,Primates,Galagidae,Sciurocheirus,Sciurocheirus alleni,Sciurocheirus_alleni_GALAGIDAE_PRIMATES,NA,NA,0,0,0,0,1,0,noct,NA,NA,0
+281,Gabon Squirrel Galago,Strepsirrhine,Primates,Galagidae,Sciurocheirus,Sciurocheirus gabonensis,Sciurocheirus_gabonensis_GALAGIDAE_PRIMATES,NA,NA,0,0,0,0,0,0,noct,NA,NA,0
+282,Makande Squirrel Galago,Strepsirrhine,Primates,Galagidae,Sciurocheirus,Sciurocheirus makandensis,Sciurocheirus_makandensis_GALAGIDAE_PRIMATES,NA,NA,NA,,0,NA,NA,NA,noct,NA,NA,NA
+283,Eastern Gorilla,Catarrhine,Primates,Hominidae,Gorilla,Gorilla beringei,Gorilla_beringei_HOMINIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,10.2,-0.193449621,0
+284,Western Gorilla,Catarrhine,Primates,Hominidae,Gorilla,Gorilla gorilla,Gorilla_gorilla_HOMINIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,1,0,0,di,11.1,-0.171327047,0
+285,Bonobo,Catarrhine,Primates,Hominidae,Pan,Pan paniscus,Pan_paniscus_HOMINIDAE_PRIMATES,Trichromatic,Trichromatic,1,F periodic sexual swellings,0,0,0,0,di,30.5,0.305537331,0
+286,Chimpanzee,Catarrhine,Primates,Hominidae,Pan,Pan troglodytes,Pan_troglodytes_HOMINIDAE_PRIMATES,Trichromatic,Trichromatic,1,F periodic sexual swellings,0,0,0,0,di,47.8,0.730782369,0
+287,Sumatran Orangutan,Catarrhine,Primates,Hominidae,Pongo,Pongo abelii,Pongo_abelii_HOMINIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,1,1,0,di,1.6,-0.404843108,0
+288,Bornean Orangutan,Catarrhine,Primates,Hominidae,Pongo,Pongo pygmaeus,Pongo_pygmaeus_HOMINIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,1,1,0,di,1.2,-0.414675364,0
+289,Western Hoolock Gibbon,Catarrhine,Primates,Hylobatidae,Hoolock,Hoolock hoolock,Hoolock_hoolock_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,3,-0.370430215,0
+290,Eastern Hoolock Gibbon,Catarrhine,Primates,Hylobatidae,Hoolock,Hoolock leuconedys,Hoolock_leuconedys_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,White preputial tuft,0,0,0,0,di,3.25,-0.364285056,0
+291,Agile Gibbon,Catarrhine,Primates,Hylobatidae,Hylobates,Hylobates agilis,Hylobates_agilis_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,4.3,-0.338475386,0
+292,Bornean White-Bearded Gibbon,Catarrhine,Primates,Hylobatidae,Hylobates,Hylobates albibarbis,Hylobates_albibarbis_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,1,0,di,NA,NA,0
+293,Kloss' Gibbon,Catarrhine,Primates,Hylobatidae,Hylobates,Hylobates klossii,Hylobates_klossii_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,4.3,-0.338475386,0
+294,Lar Gibbon,Catarrhine,Primates,Hylobatidae,Hylobates,Hylobates lar,Hylobates_lar_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,F periodic sexual swellings,0,0,0,0,di,4.4,-0.336017322,0
+295,Silvery Gibbon,Catarrhine,Primates,Hylobatidae,Hylobates,Hylobates moloch,Hylobates_moloch_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,3.5,-0.358139896,0
+296,Müller's Bornean Gibbon,Catarrhine,Primates,Hylobatidae,Hylobates,Hylobates muelleri,Hylobates_muelleri_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,3.4,-0.36059796,0
+297,Pileated Gibbon,Catarrhine,Primates,Hylobatidae,Hylobates,Hylobates pileatus,Hylobates_pileatus_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,4,-0.345849577,0
+298,Northern Yellow-Cheeked Crested Gibbon,Catarrhine,Primates,Hylobatidae,Nomascus,Nomascus annamensis,Nomascus_annamensis_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,1,0,0,di,NA,NA,NA
+299,Western Black Crested Gibbon,Catarrhine,Primates,Hylobatidae,Nomascus,Nomascus concolor,Nomascus_concolor_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,4,-0.345849577,0
+300,Southern Yellow-Cheeked Crested Gibbon,Catarrhine,Primates,Hylobatidae,Nomascus,Nomascus gabriellae,Nomascus_gabriellae_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,3.9,-0.348307641,0
+301,Hainan Crested Gibbon,Catarrhine,Primates,Hylobatidae,Nomascus,Nomascus hainanus,Nomascus_hainanus_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,7.5,-0.259817344,0
+302,Northern White-Cheeked Crested Gibbon,Catarrhine,Primates,Hylobatidae,Nomascus,Nomascus leucogenys,Nomascus_leucogenys_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,3.6,-0.355681832,0
+303,Eastern Black Crested Gibbon,Catarrhine,Primates,Hylobatidae,Nomascus,Nomascus nasutus,Nomascus_nasutus_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,6,-0.296688301,NA
+304,Southern White-Cheeked Crested Gibbon,Catarrhine,Primates,Hylobatidae,Nomascus,Nomascus siki,Nomascus_siki_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,NA,NA,0
+305,Siamang,Catarrhine,Primates,Hylobatidae,Symphalangus,Symphalangus syndactylus,Symphalangus_syndactylus_HYLOBATIDAE_PRIMATES,Trichromatic,Trichromatic,0,0,0,0,0,0,di,3.6,-0.355681832,0
+306,Betsileo Woolly Lemur,Strepsirrhine,Primates,Indriidae,Avahi,Avahi betsileo,Avahi_betsileo_INDRIIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,1,0,1,noct,NA,NA,NA
+307,Bemaraha Woolly Lemur,Strepsirrhine,Primates,Indriidae,Avahi,Avahi cleesei,Avahi_cleesei_INDRIIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,0,0,noct,2.95,-0.371659247,NA
+308,Eastern Woolly Lemur,Strepsirrhine,Primates,Indriidae,Avahi,Avahi laniger,Avahi_laniger_INDRIIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,1,0,1,noct,2,-0.395010853,0
+309,Southern Woolly Lemur,Strepsirrhine,Primates,Indriidae,Avahi,Avahi meridionalis,Avahi_meridionalis_INDRIIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,1,0,1,noct,2,-0.395010853,NA
+310,Masoala Woolly Lemur,Strepsirrhine,Primates,Indriidae,Avahi,Avahi mooreorum,Avahi_mooreorum_INDRIIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,1,1,noct,NA,NA,NA
+311,Western Woolly Lemur,Strepsirrhine,Primates,Indriidae,Avahi,Avahi occidentalis,Avahi_occidentalis_INDRIIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,0,0,noct,3.5,-0.358139896,0
+312,Peyrieras' Woolly Lemur,Strepsirrhine,Primates,Indriidae,Avahi,Avahi peyrierasi,Avahi_peyrierasi_INDRIIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,1,1,1,noct,NA,NA,NA
+313,Manombo Woolly Lemur,Strepsirrhine,Primates,Indriidae,Avahi,Avahi ramanantsoavanai,Avahi_ramanantsoavanai_INDRIIDAE_PRIMATES,Dichromatic,Dichromatic,NA,0,0,NA,NA,NA,noct,NA,NA,NA
+314,Sambirano Woolly Lemur,Strepsirrhine,Primates,Indriidae,Avahi,Avahi unicolor,Avahi_unicolor_INDRIIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,1,1,noct,2,-0.395010853,0
+315,Indri,Strepsirrhine,Primates,Indriidae,Indri,Indri indri,Indri_indri_INDRIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,3.6,-0.355681832,0
+316,Silky Sifaka,Strepsirrhine,Primates,Indriidae,Propithecus,Propithecus candidus,Propithecus_candidus_INDRIIDAE_PRIMATES,Dichromatic,Dichromatic,1,,0,0,0,1,di,4.33,-0.337737967,NA
+317,Coquerel's Sifaka,Strepsirrhine,Primates,Indriidae,Propithecus,Propithecus coquereli,Propithecus_coquereli_INDRIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,1,0,di,4.5,-0.333559258,0
+318,Crowned Sifaka,Strepsirrhine,Primates,Indriidae,Propithecus,Propithecus coronatus,Propithecus_coronatus_INDRIIDAE_PRIMATES,Polymorphic,Dichromatic,0,,0,0,1,0,di,3.58,-0.356173445,NA
+319,Von Der Decken's Sifaka,Strepsirrhine,Primates,Indriidae,Propithecus,Propithecus deckenii,Propithecus_deckenii_INDRIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,4.07,-0.344128932,0
+320,Diademed Sifaka,Strepsirrhine,Primates,Indriidae,Propithecus,Propithecus diadema,Propithecus_diadema_INDRIIDAE_PRIMATES,Polymorphic,Dichromatic,0,M reddish perineum - PELAGE,0,0,1,0,di,4.6,-0.331101194,0
+321,Milne-Edwards' Sifaka,Strepsirrhine,Primates,Indriidae,Propithecus,Propithecus edwardsi,Propithecus_edwardsi_INDRIIDAE_PRIMATES,Polymorphic,Dichromatic,0,F brief pink genital swelling,0,0,1,0,di,5.36,-0.312419909,0
+322,Perrier's Sifaka,Strepsirrhine,Primates,Indriidae,Propithecus,Propithecus perrieri,Propithecus_perrieri_INDRIIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,0,0,di,3.67,-0.353961188,0
+323,Golden-Crowned Sifaka,Strepsirrhine,Primates,Indriidae,Propithecus,Propithecus tattersalli,Propithecus_tattersalli_INDRIIDAE_PRIMATES,Polymorphic,Dichromatic,0,F brief pink genital swelling,0,1,1,0,di,4.01,-0.345603771,0
+324,Verreaux's Sifaka,Strepsirrhine,Primates,Indriidae,Propithecus,Propithecus verreauxi,Propithecus_verreauxi_INDRIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,1,0,di,5.54,-0.307995394,0
+325,White-Fronted Lemur,Strepsirrhine,Primates,Lemuridae,Eulemur,Eulemur albifrons,Eulemur_albifrons_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,0,0,cath,8.05,-0.246297993,0
+326,White-Collared Lemur,Strepsirrhine,Primates,Lemuridae,Eulemur,Eulemur cinereiceps,Eulemur_cinereiceps_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,0,0,cath,6.69,-0.279727661,0
+327,Collared Brown Lemur,Strepsirrhine,Primates,Lemuridae,Eulemur,Eulemur collaris,Eulemur_collaris_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,1,1,1,cath,7.03,-0.271370244,0
+328,Crowned Lemur,Strepsirrhine,Primates,Lemuridae,Eulemur,Eulemur coronatus,Eulemur_coronatus_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,1,0,1,cath,6.07,-0.294967656,0
+329,Blue-Eyed Black Lemur,Strepsirrhine,Primates,Lemuridae,Eulemur,Eulemur flavifrons,Eulemur_flavifrons_LEMURIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,cath,7.35,-0.26350444,NA
+330,Brown Lemur,Strepsirrhine,Primates,Lemuridae,Eulemur,Eulemur fulvus,Eulemur_fulvus_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,1,0,cath,8.46,-0.236219931,0
+331,Black Lemur,Strepsirrhine,Primates,Lemuridae,Eulemur,Eulemur macaco,Eulemur_macaco_LEMURIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,cath,9.56,-0.20918123,0
+332,Mongoose Lemur,Strepsirrhine,Primates,Lemuridae,Eulemur,Eulemur mongoz,Eulemur_mongoz_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,1,0,0,cath,2.81,-0.375100536,0
+333,Red-Bellied Lemur,Strepsirrhine,Primates,Lemuridae,Eulemur,Eulemur rubriventer,Eulemur_rubriventer_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,1,1,0,cath,2.81,-0.375100536,0
+334,Red-Fronted Brown Lemur,Strepsirrhine,Primates,Lemuridae,Eulemur,Eulemur rufifrons,Eulemur_rufifrons_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,1,1,1,cath,5.43,-0.310699265,NA
+335,Red Brown Lemur,Strepsirrhine,Primates,Lemuridae,Eulemur,Eulemur rufus,Eulemur_rufus_LEMURIDAE_PRIMATES,NA,NA,0,0,0,1,1,1,cath,6.37,-0.287593465,0
+336,Sanford's Brown Lemur,Strepsirrhine,Primates,Lemuridae,Eulemur,Eulemur sanfordi,Eulemur_sanfordi_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,1,0,cath,6.88,-0.27505734,0
+337,Alaotran Bamboo Lemur,Strepsirrhine,Primates,Lemuridae,Hapalemur,Hapalemur alaotrensis,Hapalemur_alaotrensis_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,0,0,cath,2.68,-0.378296019,0
+338,Golden Bamboo Lemur,Strepsirrhine,Primates,Lemuridae,Hapalemur,Hapalemur aureus,Hapalemur_aureus_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,1,1,1,cath,3.14,-0.366988926,0
+339,Grey Bamboo Lemur,Strepsirrhine,Primates,Lemuridae,Hapalemur,Hapalemur griseus,Hapalemur_griseus_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,1,0,0,di,4.28,-0.338966998,0
+340,Southern Bamboo Lemur,Strepsirrhine,Primates,Lemuridae,Hapalemur,Hapalemur meridionalis,Hapalemur_meridionalis_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,1,0,0,cath,5.08,-0.319302488,NA
+341,Northern Bamboo Lemur,Strepsirrhine,Primates,Lemuridae,Hapalemur,Hapalemur occidentalis,Hapalemur_occidentalis_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,1,0,0,cath,3.63,-0.354944413,0
+342,Ring-Tailed Lemur,Strepsirrhine,Primates,Lemuridae,Lemur,Lemur catta,Lemur_catta_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,F sexual swellings,0,0,0,0,cath,11.06,-0.172310273,0
+343,Greater Bamboo Lemur,Strepsirrhine,Primates,Lemuridae,Prolemur,Prolemur simus,Prolemur_simus_LEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,1,0,0,cath,9.72,-0.205248328,0
+344,Red Ruffed Lemur,Strepsirrhine,Primates,Lemuridae,Varecia,Varecia rubra,Varecia_rubra_LEMURIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,1,0,di,4.8,-0.326185067,0
+345,Black-and-White Ruffed Lemur,Strepsirrhine,Primates,Lemuridae,Varecia,Varecia variegata,Varecia_variegata_LEMURIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,6.03,-0.295950882,0
+346,Antafia Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur aeeclis,Lepilemur_aeeclis_LEPILEMURIDAE_PRIMATES,NA,NA,NA,0,0,NA,NA,NA,noct,NA,NA,NA
+347,Tsiombikibo Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur ahmansonorum,Lepilemur_ahmansonorum_LEPILEMURIDAE_PRIMATES,NA,NA,NA,0,0,NA,NA,NA,noct,NA,NA,NA
+348,Ankarana Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur ankaranensis,Lepilemur_ankaranensis_LEPILEMURIDAE_PRIMATES,NA,NA,0,0,0,0,0,0,noct,2,-0.395010853,0
+349,Betsileo Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur betsileo,Lepilemur_betsileo_LEPILEMURIDAE_PRIMATES,NA,NA,0,0,0,0,1,0,noct,NA,NA,NA
+350,Gray's Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur dorsalis,Lepilemur_dorsalis_LEPILEMURIDAE_PRIMATES,NA,NA,1,0,0,1,1,1,noct,2,-0.395010853,0
+351,Milne-Edwards' Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur edwardsi,Lepilemur_edwardsi_LEPILEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,1,0,noct,2,-0.395010853,0
+352,Andohahela Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur fleuretae,Lepilemur_fleuretae_LEPILEMURIDAE_PRIMATES,NA,NA,NA,0,0,NA,NA,NA,noct,NA,NA,NA
+353,Anjiamangirana Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur grewcockorum,Lepilemur_grewcockorum_LEPILEMURIDAE_PRIMATES,NA,NA,1,0,0,0,0,0,noct,NA,NA,NA
+354,Mananara-Nord Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur hollandorum,Lepilemur_hollandorum_LEPILEMURIDAE_PRIMATES,NA,NA,NA,0,0,NA,NA,NA,noct,NA,NA,NA
+355,Zombitse Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur hubbardorum,Lepilemur_hubbardorum_LEPILEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,0,1,noct,2,-0.395010853,NA
+356,Manombo Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur jamesorum,Lepilemur_jamesorum_LEPILEMURIDAE_PRIMATES,NA,NA,1,0,0,1,1,1,noct,NA,NA,NA
+357,White-Footed Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur leucopus,Lepilemur_leucopus_LEPILEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,0,0,noct,2,-0.395010853,0
+358,Small-Toothed Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur microdon,Lepilemur_microdon_LEPILEMURIDAE_PRIMATES,Dichromatic,Dichromatic,1,0,0,0,1,1,noct,2,-0.395010853,0
+359,Daraina Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur milanoii,Lepilemur_milanoii_LEPILEMURIDAE_PRIMATES,NA,NA,0,0,0,0,0,0,noct,NA,NA,NA
+360,Mittermeier's Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur mittermeieri,Lepilemur_mittermeieri_LEPILEMURIDAE_PRIMATES,NA,NA,NA,0,0,NA,NA,NA,noct,NA,NA,NA
+361,Weasel Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur mustelinus,Lepilemur_mustelinus_LEPILEMURIDAE_PRIMATES,Dichromatic,Dichromatic,0,0,0,0,0,0,noct,2,-0.395010853,0
+362,Ambodimahabibo Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur otto,Lepilemur_otto_LEPILEMURIDAE_PRIMATES,NA,NA,NA,0,0,NA,NA,NA,noct,NA,NA,NA
+363,Petter's Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur petteri,Lepilemur_petteri_LEPILEMURIDAE_PRIMATES,Dichromatic,Dichromatic,NA,0,0,NA,NA,NA,noct,NA,NA,NA
+364,Bemaraha Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur randrianasoloi,Lepilemur_randrianasoloi_LEPILEMURIDAE_PRIMATES,NA,NA,NA,0,0,NA,NA,NA,noct,2,-0.395010853,NA
+365,Red-Tailed Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur ruficaudatus,Lepilemur_ruficaudatus_LEPILEMURIDAE_PRIMATES,NA,NA,0,0,0,0,1,1,noct,2,-0.395010853,0
+366,Sahamalaza Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur sahamalazensis,Lepilemur_sahamalazensis_LEPILEMURIDAE_PRIMATES,NA,NA,0,0,0,0,0,1,noct,2,-0.395010853,NA
+367,Masoala Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur scottorum,Lepilemur_scottorum_LEPILEMURIDAE_PRIMATES,NA,NA,1,0,0,0,1,0,noct,NA,NA,NA
+368,Anjanaharibe-Sud Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur seali,Lepilemur_seali_LEPILEMURIDAE_PRIMATES,NA,NA,1,0,0,0,1,0,noct,NA,NA,NA
+369,Sahafary Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur septentrionalis,Lepilemur_septentrionalis_LEPILEMURIDAE_PRIMATES,NA,NA,0,0,0,0,0,0,noct,2,-0.395010853,0
+370,Nosy Be Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur tymerlachsoni,Lepilemur_tymerlachsoni_LEPILEMURIDAE_PRIMATES,NA,NA,1,0,0,0,0,1,noct,NA,NA,NA
+371,Kalambatritra Sportive Lemur,Strepsirrhine,Primates,Lepilemuridae,Lepilemur,Lepilemur wrightae,Lepilemur_wrightae_LEPILEMURIDAE_PRIMATES,NA,NA,NA,0,0,NA,NA,NA,noct,NA,NA,NA
+372,Golden Angwantibo,Strepsirrhine,Primates,Lorisidae,Arctocebus,Arctocebus aureus,Arctocebus_aureus_LORISIDAE_PRIMATES,NA,NA,0,0,0,1,1,0,noct,1,-0.419591491,0
+373,Calabar Angwantibo,Strepsirrhine,Primates,Lorisidae,Arctocebus,Arctocebus calabarensis,Arctocebus_calabarensis_LORISIDAE_PRIMATES,NA,NA,1,0,0,1,1,0,noct,NA,NA,0
+374,Grey Slender Loris,Strepsirrhine,Primates,Lorisidae,Loris,Loris lydekkerianus,Loris_lydekkerianus_LORISIDAE_PRIMATES,Dichromatic,Dichromatic,1,0,0,0,0,0,noct,NA,NA,0
+375,Red Slender Loris,Strepsirrhine,Primates,Lorisidae,Loris,Loris tardigradus,Loris_tardigradus_LORISIDAE_PRIMATES,Dichromatic,Dichromatic,1,F red swellings,0,0,1,0,noct,NA,NA,0
+376,Bengal Slow Loris,Strepsirrhine,Primates,Lorisidae,Nycticebus,Nycticebus bengalensis,Nycticebus_bengalensis_LORISIDAE_PRIMATES,NA,NA,0,0,0,1,1,0,noct,NA,NA,0
+377,Sunda Slow Loris,Strepsirrhine,Primates,Lorisidae,Nycticebus,Nycticebus coucang,Nycticebus_coucang_LORISIDAE_PRIMATES,Monochromatic,Monochromatic,1,0,0,1,1,0,noct,NA,NA,0
+378,Javan Slow Loris,Strepsirrhine,Primates,Lorisidae,Nycticebus,Nycticebus javanicus,Nycticebus_javanicus_LORISIDAE_PRIMATES,NA,NA,0,0,0,1,0,0,noct,NA,NA,NA
+379,Kayan Slow Loris,Strepsirrhine,Primates,Lorisidae,Nycticebus,Nycticebus kayan,Nycticebus_kayan_LORISIDAE_PRIMATES,NA,NA,0,NA,0,1,1,0,noct,NA,NA,NA
+380,Philippine Slow Loris,Strepsirrhine,Primates,Lorisidae,Nycticebus,Nycticebus menagensis,Nycticebus_menagensis_LORISIDAE_PRIMATES,NA,NA,1,0,0,1,1,0,noct,2,-0.395010853,NA
+381,Pygmy Slow Loris,Strepsirrhine,Primates,Lorisidae,Nycticebus,Nycticebus pygmaeus,Nycticebus_pygmaeus_LORISIDAE_PRIMATES,Monochromatic,Monochromatic,0,0,0,1,1,0,noct,NA,NA,0
+382,West African Potto,Strepsirrhine,Primates,Lorisidae,Perodicticus,Perodicticus potto,Perodicticus_potto_LORISIDAE_PRIMATES,NA,NA,1,0,0,0,1,1,noct,NA,NA,0
+383,Ayres Black Uacari,Platyrrhine,Primates,Pitheciidae,Cacajao,Cacajao ayresi,Cacajao_ayresi_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,NA,0,0,NA,NA,NA,NA,67.5,1.215020938,NA
+384,Bald-Headed Uacari,Platyrrhine,Primates,Pitheciidae,Cacajao,Cacajao calvus,Cacajao_calvus_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,1,1,di,35.1,0.418608266,0
+385,Black-Headed Uacari,Platyrrhine,Primates,Pitheciidae,Cacajao,Cacajao hosomi,Cacajao_hosomi_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,1,1,di,67.5,1.215020938,NA
+386,Golden-Backed Uacari,Platyrrhine,Primates,Pitheciidae,Cacajao,Cacajao melanocephalus,Cacajao_melanocephalus_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,pigmented genitalia,1,0,1,1,di,42.8,0.607879178,0
+387,Madidi Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus aureipalatii,Callicebus_aureipalatii_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,1,0,NA,3,-0.370430215,NA
+388,Lake Baptista Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus baptista,Callicebus_baptista_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,NA,0,0,NA,NA,NA,di,NA,NA,0
+389,Blond Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus barbarabrownae,Callicebus_barbarabrownae_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,1,di,3,-0.370430215,0
+390,Prince Bernhard's Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus bernhardi,Callicebus_bernhardi_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,1,0,di,NA,NA,0
+391,Brown Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus brunneus,Callicebus_brunneus_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,0,0,di,3.4,-0.36059796,0
+392,Chestnut-Bellied Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus caligatus,Callicebus_caligatus_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,1,0,di,NA,NA,0
+393,Caqueta Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus caquetensis,Callicebus_caquetensis_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,1,0,NA,4.5,-0.333559258,NA
+394,Ashy Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus cinerascens,Callicebus_cinerascens_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,4.5,-0.333559258,0
+395,Coimbra-Filho's Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus coimbrai,Callicebus_coimbrai_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,1,di,3,-0.370430215,0
+396,Coppery Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus cupreus,Callicebus_cupreus_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,1,0,di,6,-0.296688301,0
+397,White-Tailed Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus discolor,Callicebus_discolor_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,1,0,di,6,-0.296688301,0
+398,White-Eared Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus donacophilus,Callicebus_donacophilus_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,0,0,di,NA,NA,0
+399,Dubious Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus dubius,Callicebus_dubius_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,1,0,di,NA,NA,0
+400,Hoffmanns' Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus hoffmannsi,Callicebus_hoffmannsi_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,NA,NA,0
+401,Lucifer Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus lucifer,Callicebus_lucifer_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,1,1,di,3.63,-0.354944413,0
+402,Black Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus lugens,Callicebus_lugens_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,3.63,-0.354944413,0
+403,Colombian Black-Handed Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus medemi,Callicebus_medemi_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,NA,NA,0
+404,Coastal Black-Handed Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus melanochir,Callicebus_melanochir_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,5,-0.321268939,0
+405,Milton's Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus miltoni,Callicebus_miltoni_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,NA,0,1,0,1,NA,NA,NA,NA
+406,Rio Beni Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus modestus,Callicebus_modestus_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,3,-0.370430215,0
+407,Red-Bellied Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus moloch,Callicebus_moloch_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,1,0,di,3.5,-0.358139896,0
+408,Black-Fronted Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus nigrifrons,Callicebus_nigrifrons_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,1,di,4,-0.345849577,0
+409,Rio Mayo Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus oenanthe,Callicebus_oenanthe_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,1,0,0,0,0,0,di,5,-0.321268939,0
+410,Ollala Brothers' Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus olallae,Callicebus_olallae_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,0,0,di,2,-0.395010853,0
+411,Ornate Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus ornatus,Callicebus_ornatus_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,1,0,di,4,-0.345849577,0
+412,White-Coated Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus pallescens,Callicebus_pallescens_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,3.8,-0.350765705,0
+413,Atlantic Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus personatus,Callicebus_personatus_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,1,di,4.7,-0.32864313,0
+414,Rio Purus Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus purinus,Callicebus_purinus_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,NA,0,0,NA,NA,NA,di,3.1,-0.367972151,0
+415,Red-Headed Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus regulus,Callicebus_regulus_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,NA,0,0,NA,NA,NA,di,NA,NA,0
+416,Stephen Nash's Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus stephennashi,Callicebus_stephennashi_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,1,1,di,NA,NA,0
+417,Collared Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus torquatus,Callicebus_torquatus_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,NA,0,0,NA,NA,NA,di,3.9,-0.348307641,0
+418,Urubamba Brown Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus urubambensis,Callicebus_urubambensis_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,NA,0,1,1,0,NA,NA,NA,NA
+419,Vieira's Titi,Platyrrhine,Primates,Pitheciidae,Callicebus,Callicebus vieirai,Callicebus_vieirai_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,1,0,NA,NA,NA,NA
+420,Red-Nosed Saki,Platyrrhine,Primates,Pitheciidae,Chiropotes,Chiropotes albinasus,Chiropotes_albinasus_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,1,pink scrotum,1,0,0,0,di,4.2,-0.340933449,0
+421,Bearded Saki,Platyrrhine,Primates,Pitheciidae,Chiropotes,Chiropotes chiropotes,Chiropotes_chiropotes_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,pink vulva and scrotum,1,0,0,0,di,NA,NA,0
+422,Black Saki,Platyrrhine,Primates,Pitheciidae,Chiropotes,Chiropotes satanas,Chiropotes_satanas_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,pink scrotum,1,0,0,0,di,32,0.342408288,0
+423,Uta Hick's Saki,Platyrrhine,Primates,Pitheciidae,Chiropotes,Chiropotes utahickae,Chiropotes_utahickae_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,9.2,-0.218030259,0
+424,Equatorial Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia aequatorialis,Pithecia_aequatorialis_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,4,-0.345849577,0
+425,Buffy Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia albicans,Pithecia_albicans_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,1,0,di,4.6,-0.331101194,0
+426,Cazuza's Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia cazuzai,Pithecia_cazuzai_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,NA,NA,0,NA,NA,NA,NA,NA,NA,NA
+427,Golden-Faced Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia chrysocephala,Pithecia_chrysocephala_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,0,0,di,7,-0.272107663,NA
+428,Hairy Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia hirsuta,Pithecia_hirsuta_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,NA,Not in HMOW3,NA,NA,NA,NA,NA,NA,NA,NA
+429,Burnished Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia insuta,Pithecia_insuta_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,,0,0,0,0,NA,NA,NA,NA
+430,Gray's Bald-Faced Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia irrorata,Pithecia_irrorata_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,3.1,-0.367972151,0
+431,Isabel's Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia isabela,Pithecia_isabela_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,,0,0,0,0,NA,NA,NA,NA
+432,Miller's Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia milleri,Pithecia_milleri_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,,0,0,0,0,NA,6,-0.296688301,NA
+433,Mittermeier's Tapajos Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia mittermeieri,Pithecia_mittermeieri_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,,0,0,0,0,di,NA,NA,NA
+434,Monk Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia monachus,Pithecia_monachus_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,1,0,0,di,3.8,-0.350765705,0
+435,Napo Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia napensis,Pithecia_napensis_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,,0,0,0,0,NA,NA,NA,NA
+436,Pissinatti's Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia pissinattii,Pithecia_pissinattii_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,NA,,0,NA,NA,NA,NA,NA,NA,NA
+437,White-Faced Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia pithecia,Pithecia_pithecia_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,0,0,0,0,0,di,4.6,-0.331101194,0
+438,Rylands' Bald-Faced Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia rylandsi,Pithecia_rylandsi_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,,0,0,0,0,di,NA,NA,NA
+439,Vanzolini's Bald-Faced Saki,Platyrrhine,Primates,Pitheciidae,Pithecia,Pithecia vanzolinii,Pithecia_vanzolinii_PITHECIIDAE_PRIMATES,Polymorphic,Dichromatic,0,,0,0,0,0,di,4,-0.345849577,NA
+440,Horsfield's Tarsier,Tarsiidae,Primates,Tarsiidae,Tarsius,Tarsius bancanus,Tarsius_bancanus_TARSIIDAE_PRIMATES,Dichromatic,Dichromatic,1,red vulva,0,1,0,0,noct,1,-0.419591491,0
+441,Dian's Tarsier,Tarsiidae,Primates,Tarsiidae,Tarsius,Tarsius dentatus,Tarsius_dentatus_TARSIIDAE_PRIMATES,NA,NA,1,0,0,0,0,0,noct,4.5,-0.333559258,0
+442,Lariang Tarsier,Tarsiidae,Primates,Tarsiidae,Tarsius,Tarsius lariang,Tarsius_lariang_TARSIIDAE_PRIMATES,NA,NA,1,,0,0,0,0,noct,3,-0.370430215,NA
+443,Peleng Tarsier,Tarsiidae,Primates,Tarsiidae,Tarsius,Tarsius pelengensis,Tarsius_pelengensis_TARSIIDAE_PRIMATES,NA,NA,1,0,0,0,0,0,noct,NA,NA,0
+444,Pygmy Tarsier,Tarsiidae,Primates,Tarsiidae,Tarsius,Tarsius pumilus,Tarsius_pumilus_TARSIIDAE_PRIMATES,NA,NA,1,0,0,0,0,0,noct,NA,NA,0
+445,Sangihe Tarsier,Tarsiidae,Primates,Tarsiidae,Tarsius,Tarsius sangirensis,Tarsius_sangirensis_TARSIIDAE_PRIMATES,NA,NA,1,0,0,0,0,0,noct,4,-0.345849577,0
+446,Philippine Tarsier,Tarsiidae,Primates,Tarsiidae,Tarsius,Tarsius syrichta,Tarsius_syrichta_TARSIIDAE_PRIMATES,Dichromatic,Dichromatic,1,0,0,1,0,0,noct,NA,NA,0
+447,Spectral Tarsier,Tarsiidae,Primates,Tarsiidae,Tarsius,Tarsius tarsier,Tarsius_tarsier_TARSIIDAE_PRIMATES,Dichromatic,Dichromatic,1,0,0,1,0,0,noct,NA,NA,0
+448,Siau Island Tarsier,Tarsiidae,Primates,Tarsiidae,Tarsius,Tarsius tumpara,Tarsius_tumpara_TARSIIDAE_PRIMATES,NA,NA,0,,0,1,0,0,noct,4,-0.345849577,NA
+449,Wallace's Tarsier,Tarsiidae,Primates,Tarsiidae,Tarsius,Tarsius wallacei,Tarsius_wallacei_TARSIIDAE_PRIMATES,NA,NA,NA,,0,NA,NA,NA,NA,NA,NA,NA
